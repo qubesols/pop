@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pop/static/css/main.7626a93a.css",
-    "main.js": "/pop/static/js/main.d508581b.js",
+    "main.css": "/pop/static/css/main.4b7bfa4d.css",
+    "main.js": "/pop/static/js/main.bd9851b2.js",
     "static/js/787.65912ba8.chunk.js": "/pop/static/js/787.65912ba8.chunk.js",
     "static/media/Itinerary creation 1.png": "/pop/static/media/Itinerary creation 1.9ac13f5d3d7baf0613d1.png",
     "static/media/Rectangle 1.png": "/pop/static/media/Rectangle 1.b44f4e5baa73e94dedd9.png",
     "index.html": "/pop/index.html",
-    "main.7626a93a.css.map": "/pop/static/css/main.7626a93a.css.map",
-    "main.d508581b.js.map": "/pop/static/js/main.d508581b.js.map",
+    "main.4b7bfa4d.css.map": "/pop/static/css/main.4b7bfa4d.css.map",
+    "main.bd9851b2.js.map": "/pop/static/js/main.bd9851b2.js.map",
     "787.65912ba8.chunk.js.map": "/pop/static/js/787.65912ba8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7626a93a.css",
-    "static/js/main.d508581b.js"
+    "static/css/main.4b7bfa4d.css",
+    "static/js/main.bd9851b2.js"
   ]
 }
